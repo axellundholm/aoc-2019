@@ -106,4 +106,4 @@ if __name__=="__main__":
 	
 	input = 8
 	
-	print("Answer to Part One: " + str(diagnostic_program(input, test_program_position_jump)))
+	print("Answer to Part One: " + str(diagnostic_program(input, program)))
